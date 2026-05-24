@@ -1,64 +1,85 @@
-<h1 align="center">Hi 👋, I'm Nandini Doradla</h1>
-<h3 align="center">🚀 Passionate Developer | Tech Enthusiast</h3>
+# Hi there, I'm Nandini Doradla 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nandinidoradla13&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+```txt
+💻 Frontend Developer | 🚀 Tech Enthusiast | 📚 Continuous Learner
+```
 
----
-
-## 💫 About Me
-- 🌱 I’m continuously learning and improving my skills  
-- 💻 I enjoy building responsive and dynamic web applications  
-- 🎯 Focused on becoming a full-stack developer  
-- ⚡ Fun fact: I love turning ideas into reality through code  
+Welcome to my GitHub profile!
+I enjoy building responsive web applications, learning modern technologies, and creating projects that solve real-world problems. Passionate about clean UI, efficient code, and continuous growth in software development.
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 About Me
 
-### 👩‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🛠 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧰 Tools & Others
-![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+* 🌱 Currently learning and improving my Full Stack Development skills
+* 💡 Interested in Web Development & UI/UX
+* ⚡ Love building interactive and responsive websites
+* 🎯 Goal: Become a skilled Full Stack Developer
+* 📚 Always exploring new technologies and tools
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandinidoradla13&show_icons=true&theme=radical" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinidoradla13&theme=radical" alt="streak" />
-</p>
+# 🛠️ Tech Stack
+
+### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+### 💻 Programming Language
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+
+### 📊 Productivity Tools
+
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge\&logo=microsoft-office\&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
+### 🧰 Tools & Platforms
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <!-- Add your social links below -->
-  <!-- Example:
-  <a href="https://linkedin.com/in/yourprofile" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  -->
-</p>
+# 📈 GitHub Stats
+
+```txt
+🔥 Consistency + Learning + Building = Growth
+```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
 
 ---
 
-## ✨ Quote
-> "Code is like humor. When you have to explain it, it’s bad." 😄
+# 🌟 What I’m Working On
+
+* 🌐 Responsive Web Projects
+* ⚛️ React Applications
+* 🛠️ Full Stack Development
+* 📚 Strengthening DSA & Problem Solving
 
 ---
 
-⭐️ From [nandinidoradla13](https://github.com/nandinidoradla13)
+# 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+---
+
+# ✨ Fun Quote
+
+> "Code. Learn. Build. Repeat."
+
+---
+
+⭐ *Thanks for visiting my profile!*
