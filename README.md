@@ -1,85 +1,96 @@
-# Hi there, I'm Nandini Doradla 👋
+<h1 align="center">Hi 👋, I'm Nandini Doradla</h1>
 
-```txt
-💻 Frontend Developer | 🚀 Tech Enthusiast | 📚 Continuous Learner
-```
+<h3 align="center">💻 Frontend Developer | JavaScript Enthusiast | Passionate Tech Learner</h3>
 
-Welcome to my GitHub profile!
-I enjoy building responsive web applications, learning modern technologies, and creating projects that solve real-world problems. Passionate about clean UI, efficient code, and continuous growth in software development.
-
----
-
-# 🚀 About Me
-
-* 🌱 Currently learning and improving my Full Stack Development skills
-* 💡 Interested in Web Development & UI/UX
-* ⚡ Love building interactive and responsive websites
-* 🎯 Goal: Become a skilled Full Stack Developer
-* 📚 Always exploring new technologies and tools
+<p align="center">
+  Turning ideas into responsive and user-friendly web applications 🚀
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+## 👩‍💻 About Me
 
-### 🌐 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-
-### 💻 Programming Language
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-
-### 📊 Productivity Tools
-
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge\&logo=microsoft-office\&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-
-### 🧰 Tools & Platforms
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+✨ Passionate about web development and modern technologies  
+🌱 Currently learning advanced React.js and backend development  
+💡 Interested in creating clean, responsive, and interactive websites  
+🎯 Goal: To become a skilled Full Stack Developer  
 
 ---
 
-# 📈 GitHub Stats
+# 🚀 Tech Stack
 
-```txt
-🔥 Consistency + Learning + Building = Growth
-```
+## 👨‍💻 Languages & Frameworks
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+<p align="left">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-# 🌟 What I’m Working On
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-* 🌐 Responsive Web Projects
-* ⚛️ React Applications
-* 🛠️ Full Stack Development
-* 📚 Strengthening DSA & Problem Solving
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
----
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-# 🤝 Connect With Me
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+</p>
 
 ---
 
-# ✨ Fun Quote
+# 🛠️ Tools & Platforms
 
-> "Code. Learn. Build. Repeat."
+<p align="left">
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+# 📊 GitHub Stats
+
+<p align="center">
+  
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  
+✨ <b>"Code • Create • Innovate"</b> ✨
+
+</p>
